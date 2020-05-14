@@ -7,3 +7,5 @@ Things I learned by creating this project:
 - Building Mobile resposive site
 
 You can see this project live at the following URL:
+
+https://abhishashah.github.io/abdul-kalam-tribute-page/
